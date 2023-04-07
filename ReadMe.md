@@ -7,6 +7,6 @@ In this repo, you can see all my school and personal work done in Autodesk Inven
 ## Projects
 | # |    Title    |
 |---| ----------- |
-|01| [Cable Support](./Projects/Cable Support/) 
-|02| [Pipe Vice](./Projects/Pipe Vice/) 
-|03| [Crane Hook](./Projects/Crane Hook/) 
+|01| [Cable Support](./Projects/Cable_Support/) 
+|02| [Pipe Vice](./Projects/Pipe_Vice/) 
+|03| [Crane Hook](./Projects/Crane_Hook/) 
